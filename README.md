@@ -1,10 +1,6 @@
 # GoDev
 > Faça com que sua busca por desenvolvedores mais próximos, e que trabalham com a mesma tecnologia que você, seja mais simples e rapido possivel!!
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Fotografia 1 – Aplicação web em sua primeira versão
 
 ![](GoDev-Web.png)
