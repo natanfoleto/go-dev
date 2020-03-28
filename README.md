@@ -54,11 +54,10 @@ expo start
 
 ## Meta
 
-Natan Foleto – [@linkedin](https://www.linkedin.com/in/natan-foleto-9bbb2b178/) – natanfoleto2015@hotmail.com
+Natan Foleto – [@linkedin](https://www.linkedin.com/in/natan-foleto-9bbb2b178/) 
+Contato: natanfoleto2015@hotmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/natanfoleto](https://github.com/natanfoleto/)
+Perfil - [https://github.com/natanfoleto](https://github.com/natanfoleto/)
 
 <!-- Markdown link & img dfn's -->
 [yarn]: https://yarnpkg.com
