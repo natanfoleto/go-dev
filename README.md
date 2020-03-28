@@ -1,78 +1,69 @@
-# Product Name
-> Short blurb about what your product does.
+# GoDev
+> Faça com que sua busca por desenvolvedores mais próximos, e que trabalham com a mesma tecnologia que você, seja mais simples e rapido possivel!!
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+Fotografia 1 – Aplicação web em sua primeira versão
 
-![](header.png)
+![](GoDev-Web.png)
+
+
+Fotografia 2 – Aplicação mobile em sua primeira versão
+
+![](GoDev-Mobile.png)
 
 ## Installation
 
-OS X & Linux:
+Windows & MacOS:
 
 ```sh
-npm install my-crazy-module --save
+npm install
 ```
 
-Windows:
+Ubuntu:
 
 ```sh
-edit autoexec.bat
+sudo npm install
 ```
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Após baixar e instalar os node_modules, seu aplicativo está pronto pra ser iniciado.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
+Back-end:
+_With [yarn][yarn]._
 ```sh
-make install
-npm test
+yarn dev
+```
+_No yarn_
+```sh
+npm dev
 ```
 
-## Release History
+Front-end:
+```sh
+npm start
+```
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+Mobile:
+```sh
+npm start
+```
+_Ou_
+```sh
+expo start
+```
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Natan Foleto – [@linkedin](https://www.linkedin.com/in/natan-foleto-9bbb2b178/) – natanfoleto2015@hotmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+[https://github.com/natanfoleto](https://github.com/natanfoleto/)
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[yarn]: https://yarnpkg.com
+[linkedin]: https://www.linkedin.com/in/natan-foleto-9bbb2b178/
