@@ -54,7 +54,8 @@ expo start
 
 ## Meta
 
-Natan Foleto – [@linkedin](https://www.linkedin.com/in/natan-foleto-9bbb2b178/) 
+Natan Foleto – [@linkedin](https://www.linkedin.com/in/natan-foleto-9bbb2b178/)
+
 Contato: natanfoleto2015@hotmail.com
 
 Perfil - [https://github.com/natanfoleto](https://github.com/natanfoleto/)
