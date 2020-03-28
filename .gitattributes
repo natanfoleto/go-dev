@@ -1,0 +1,5 @@
+* linguist-vendored
+
+*.nodejs linguist-detectable=true
+*.react linguist-detectable=true
+*.react-native linguist-detectable=true
