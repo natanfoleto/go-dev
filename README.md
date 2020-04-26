@@ -1,5 +1,5 @@
 # GoDev
-> Faça com que sua busca por desenvolvedores mais próximos, e que trabalham com a mesma tecnologia que você, seja mais simples e rapido possivel!!
+> Faça com que sua busca por desenvolvedores mais próximos, e que trabalham com a mesma tecnologia que você, seja mais simples e rápida possivel!!
 
 Fotografia 1 – Aplicação web em sua primeira versão
 
