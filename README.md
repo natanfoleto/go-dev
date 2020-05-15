@@ -53,8 +53,11 @@ $ git clone https://github.com/natanfoleto/go-dev.git
 ```
 
 Execute o backend com comando "yarn dev"
+<br/>
 Execute o web com comando "yarn start"
+<br/>
 Execute o mobile com comando "yarn start"
+<br/>
 
 <br/>
 
@@ -67,14 +70,11 @@ Execute o mobile com comando "yarn start"
 ---
 
 <h3 align="center">
-Autor: <a alt="Natan Foleto" href="https://github.com/natanfoleto">Natan Foleto</a>
+  Autor: <a alt="Natan Foleto" href="https://github.com/natanfoleto">Natan Foleto</a>
 </h3>
 
 <p align="center">
-
   <a alt="Natan Foleto Linkedin" href="https://www.linkedin.com/in/natan-foleto-9bbb2b178//">
-    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQETEoI800q-IQ/profile-displayphoto-shrink_200_200/0?e=1594857600&v=beta&t=EM__SHHX-rHEXhq-BGYiz9OX1XYV3wwb9H0QF6xMHcQ"/></a>
-  <a alt="Natan Foleto GitHub" href="https://github.com/natanfoleto">
-  <img src="https://avatars0.githubusercontent.com/u/39577730?s=460&u=a7f7b5fcc2da2df8dece626fb456746147df9261&v=4"/></a>
-
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQETEoI800q-IQ/profile-displayphoto-shrink_200_200/0?          e=1594857600&v=beta&t=EM__SHHX-rHEXhq-BGYiz9OX1XYV3wwb9H0QF6xMHcQ"/>
+  </a>
 </p>
